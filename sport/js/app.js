@@ -277,7 +277,7 @@ if (document.querySelector('.slider-main__body')) {
 	document.querySelectorAll('.slider-main .slider-main__dotts>span').forEach((dot, i) => {	
 		let imges = document.querySelectorAll('.slider-main .slider-main__slide img');
 		if (imges){
-			dot.style.backgroundImage = 'url(../' + imges[i].getAttribute('src') +')';
+			dot.style.backgroundImage = 'url(./' + imges[i].getAttribute('src') +')';
 		}
 
 	})	
