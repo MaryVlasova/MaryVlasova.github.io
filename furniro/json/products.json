@@ -1,0 +1,71 @@
+{
+	"products": [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Grifo",
+			"text": "Ночная лампа",
+			"labels": "",
+			"image": "05.jpg",
+			"price": "3000 руб",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Muggo",
+			"text": "Кружка",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "300 руб",
+			"priceOld": "600 руб",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Pingky",
+			"text": "Постельное белье",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "07.jpg",
+			"price": "2500 руб",
+			"priceOld": "5000 руб",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Potty",
+			"text": "Мнималистичный цветочный горшек",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "08.jpg",
+			"price": "3000 руб",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+	]
+}
